@@ -1,2 +1,2 @@
-# measure-theory
+# Measure Theory
 Measure Theory in R
